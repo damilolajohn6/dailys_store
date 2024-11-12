@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <header className="h-26 shadow-md bg-white ">
       <div className="h-full flex container mx-auto items-center px-4 justify-between">
-        <div className="">
+        <div className="  text-blue-900">
             <Link to={"/"}>
                 <Logo w={100} h={60} />
             </Link>
